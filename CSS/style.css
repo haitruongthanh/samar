@@ -914,6 +914,7 @@ header {
   color: #fff;
   font-size: 15px;
   position: relative;
+  overflow: hidden;
 }
 
 .section-11::before {
